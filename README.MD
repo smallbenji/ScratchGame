@@ -11,6 +11,7 @@
 * Nerdy AF game only some people will fully understand
 * A lot of weird jokes
 * Hidden penis joke
+* Microbit as controller? Mby trying to make my own controller for the game as a little challenge
 
 <br>
 
